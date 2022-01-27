@@ -1,0 +1,2239 @@
+
+[
+    {
+        "Id": 175,
+        "Name": "<p>Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 535,
+                "QuestionId": 175,
+                "Name": "<p>src</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 536,
+                "QuestionId": 175,
+                "Name": "<p>alt</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 537,
+                "QuestionId": 175,
+                "Name": "<p>longdesc</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 538,
+                "QuestionId": 175,
+                "Name": "<p>title</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 536,
+            "QuestionId": 175,
+            "Name": "<p>alt</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 536
+    },
+    {
+        "Id": 192,
+        "Name": "<p>Which of the following shortcut to staging all the changes you have?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 597,
+                "QuestionId": 192,
+                "Name": "<p>git push -am \"Message\"</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 598,
+                "QuestionId": 192,
+                "Name": "<p>git add.</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 599,
+                "QuestionId": 192,
+                "Name": "<p>git commit add.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 600,
+                "QuestionId": 192,
+                "Name": "<p>git commit.</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 598,
+            "QuestionId": 192,
+            "Name": "<p>git add.</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 598
+    },
+    {
+        "Id": 161,
+        "Name": "<p>How to create folder using Linux command?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 479,
+                "QuestionId": 161,
+                "Name": "<p>create-folder</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 480,
+                "QuestionId": 161,
+                "Name": "<p>dir</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 481,
+                "QuestionId": 161,
+                "Name": "<p>folder</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 482,
+                "QuestionId": 161,
+                "Name": "<p>mkdir</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 482,
+            "QuestionId": 161,
+            "Name": "<p>mkdir</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 482
+    },
+    {
+        "Id": 178,
+        "Name": "<p>How can you make a numbered list?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 545,
+                "QuestionId": 178,
+                "Name": "<p>ol tag</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 546,
+                "QuestionId": 178,
+                "Name": "<p>dl tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 547,
+                "QuestionId": 178,
+                "Name": "<p>ul tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 548,
+                "QuestionId": 178,
+                "Name": "<p>list tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 545,
+            "QuestionId": 178,
+            "Name": "<p>ol tag</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 545
+    },
+    {
+        "Id": 174,
+        "Name": "<p>How can you open a link in a new tab/browser window?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 531,
+                "QuestionId": 174,
+                "Name": "<p>target=\"new\"</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 532,
+                "QuestionId": 174,
+                "Name": "<p>href=\"URL\"</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 533,
+                "QuestionId": 174,
+                "Name": "<p>target=\"_blank\"</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 534,
+                "QuestionId": 174,
+                "Name": "<p>a tag with URL inside tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 533,
+            "QuestionId": 174,
+            "Name": "<p>target=\"_blank\"</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 533
+    },
+    {
+        "Id": 184,
+        "Name": "<p>Which of the following is the correct heading size for <h5> in Bootstrap 4?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 565,
+                "QuestionId": 184,
+                "Name": "<p>20 px</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 566,
+                "QuestionId": 184,
+                "Name": "<p>16 px</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 567,
+                "QuestionId": 184,
+                "Name": "<p>12 px</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 568,
+                "QuestionId": 184,
+                "Name": "<p>None of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 565,
+            "QuestionId": 184,
+            "Name": "<p>20 px</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 565
+    },
+    {
+        "Id": 164,
+        "Name": "<p>How to remove directory \"folder1\" using Linux commad?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 491,
+                "QuestionId": 164,
+                "Name": "<p>rmdir folder1</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 492,
+                "QuestionId": 164,
+                "Name": "<p>remove folder1</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 493,
+                "QuestionId": 164,
+                "Name": "<p>remove-dir folder1</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 494,
+                "QuestionId": 164,
+                "Name": "<p>rdir folder1</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 491,
+            "QuestionId": 164,
+            "Name": "<p>rmdir folder1</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 491
+    },
+    {
+        "Id": 163,
+        "Name": "<p>How to copy a file index.php to index-bk.php using Linux command?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 487,
+                "QuestionId": 163,
+                "Name": "<p>copy index.php index-bk.php</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 488,
+                "QuestionId": 163,
+                "Name": "<p>cp index.php index-bk.php</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 489,
+                "QuestionId": 163,
+                "Name": "<p>cc index.php index-bk.php</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 490,
+                "QuestionId": 163,
+                "Name": "<p>create-copy index.php index-bk.php</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 488,
+            "QuestionId": 163,
+            "Name": "<p>cp index.php index-bk.php</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 488
+    },
+    {
+        "Id": 176,
+        "Name": "<p>Which of these elements are all table elements?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 539,
+                "QuestionId": 176,
+                "Name": "<p>thead, body, tr</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 540,
+                "QuestionId": 176,
+                "Name": "<p>table, tr, tt</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 541,
+                "QuestionId": 176,
+                "Name": "<p>table, tr, td</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 542,
+                "QuestionId": 176,
+                "Name": "<p>table, head, tfoot</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 541,
+            "QuestionId": 176,
+            "Name": "<p>table, tr, td</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 541
+    },
+    {
+        "Id": 168,
+        "Name": "<p>Which of following is wrong statement?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 507,
+                "QuestionId": 168,
+                "Name": "<p>\"mv\" command also use to rename file or folder</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 508,
+                "QuestionId": 168,
+                "Name": "<p>\"cd ..\" command use to go back to parent directory</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 509,
+                "QuestionId": 168,
+                "Name": "<p>\"rm\" command use to delete folder</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 510,
+                "QuestionId": 168,
+                "Name": "<p>\"ls\" command is to lists the files or folders in the current working directory</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 509,
+            "QuestionId": 168,
+            "Name": "<p>\"rm\" command use to delete folder</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 509
+    },
+    {
+        "Id": 194,
+        "Name": "<p>What comes first, staging with git add. or committing with git commit?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 605,
+                "QuestionId": 194,
+                "Name": "<p>Committing with git commit</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 606,
+                "QuestionId": 194,
+                "Name": "<p>Staging your commits with git add</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 607,
+                "QuestionId": 194,
+                "Name": "<p>None of these</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 608,
+                "QuestionId": 194,
+                "Name": "<p>Both A and B</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 606,
+            "QuestionId": 194,
+            "Name": "<p>Staging your commits with git add</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 606
+    },
+    {
+        "Id": 172,
+        "Name": "<p>What is the correct HTML for creating a hyperlink?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 523,
+                "QuestionId": 172,
+                "Name": "<p>a tag with href attribute with link mentioned</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 524,
+                "QuestionId": 172,
+                "Name": "<p>a tag with name atrribute with link mentioned</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 525,
+                "QuestionId": 172,
+                "Name": "<p>a tag with link mentioned inside tag with link mentioned</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 526,
+                "QuestionId": 172,
+                "Name": "<p>a tag with url attribute with link mentioned</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 523,
+            "QuestionId": 172,
+            "Name": "<p>a tag with href attribute with link mentioned</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 523
+    },
+    {
+        "Id": 198,
+        "Name": "<p>Which command create empty git repository.?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 622,
+                "QuestionId": 198,
+                "Name": "<p>git reset</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 623,
+                "QuestionId": 198,
+                "Name": "<p>git repo</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 624,
+                "QuestionId": 198,
+                "Name": "<p>git init</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 625,
+                "QuestionId": 198,
+                "Name": "<p>git start</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 624,
+            "QuestionId": 198,
+            "Name": "<p>git init</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 624
+    },
+    {
+        "Id": 195,
+        "Name": "<p>How do you create a copy of a lab under your own GitHub account so that you can solve the lab?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 609,
+                "QuestionId": 195,
+                "Name": "<p>Forking it via the GitHub interface.</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 610,
+                "QuestionId": 195,
+                "Name": "<p>git clone</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 611,
+                "QuestionId": 195,
+                "Name": "<p>git pull-request</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 612,
+                "QuestionId": 195,
+                "Name": "<p>git fork</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 609,
+            "QuestionId": 195,
+            "Name": "<p>Forking it via the GitHub interface.</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 609
+    },
+    {
+        "Id": 171,
+        "Name": "<p>What is the correct HTML element for inserting a line break?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 519,
+                "QuestionId": 171,
+                "Name": "<p>break tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 520,
+                "QuestionId": 171,
+                "Name": "<p>br tag</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 521,
+                "QuestionId": 171,
+                "Name": "<p>hr tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 522,
+                "QuestionId": 171,
+                "Name": "<p>p tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 520,
+            "QuestionId": 171,
+            "Name": "<p>br tag</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 520
+    },
+    {
+        "Id": 183,
+        "Name": "<p>Which of the following statements is true about Jumbotron in Bootstrap 4?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 561,
+                "QuestionId": 183,
+                "Name": "<p>The Jumbotron in Bootstrap 4 can be used to increase the size of headings and also insert a large amount of margin for the purpose of landing page control.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 562,
+                "QuestionId": 183,
+                "Name": "<p>In order to create a container with the help of using class .jumbotron.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 563,
+                "QuestionId": 183,
+                "Name": "<p>Both (a) and (b) are correct</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 564,
+                "QuestionId": 183,
+                "Name": "<p>None of the above options is correct</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 563,
+            "QuestionId": 183,
+            "Name": "<p>Both (a) and (b) are correct</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 563
+    },
+    {
+        "Id": 200,
+        "Name": "<p>Which of the following is not true in terms of git</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 630,
+                "QuestionId": 200,
+                "Name": "<p>Staging area</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 631,
+                "QuestionId": 200,
+                "Name": "<p>Fork</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 632,
+                "QuestionId": 200,
+                "Name": "<p>Stem</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 633,
+                "QuestionId": 200,
+                "Name": "<p>Push</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 632,
+            "QuestionId": 200,
+            "Name": "<p>Stem</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 632
+    },
+    {
+        "Id": 177,
+        "Name": "<p>Inline elements are normally displayed without starting a new line.</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 543,
+                "QuestionId": 177,
+                "Name": "<p>True</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 544,
+                "QuestionId": 177,
+                "Name": "<p>False</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 543,
+            "QuestionId": 177,
+            "Name": "<p>True</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 543
+    },
+    {
+        "Id": 181,
+        "Name": "<p>Which of the following class can be used to make the images and other content in a web page automatically adjusts to fit the size of the screen?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 557,
+                "QuestionId": 181,
+                "Name": ".img-rounded",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 558,
+                "QuestionId": 181,
+                "Name": "<p>.img-fluid</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 559,
+                "QuestionId": 181,
+                "Name": "<p>.img-circle</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 560,
+                "QuestionId": 181,
+                "Name": "<p>None of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 558,
+            "QuestionId": 181,
+            "Name": "<p>.img-fluid</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 558
+    },
+    {
+        "Id": 189,
+        "Name": "<p>Which of the following is correct about data - html Data attribute of Tooltip Plugin?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 585,
+                "QuestionId": 189,
+                "Name": "<p>It can be used to apply a CSS fade transition to the tooltip.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 586,
+                "QuestionId": 189,
+                "Name": "<p>It can add the HTML into the tooltip. If false, jQuery's text method will be used to insert content into the dom.</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 587,
+                "QuestionId": 189,
+                "Name": "<p>It can specify the position the tooltip (i.e., top | bottom | left | right | auto).</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 588,
+                "QuestionId": 189,
+                "Name": "<p>It can delegate to the specified targets.</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 586,
+            "QuestionId": 189,
+            "Name": "<p>It can add the HTML into the tooltip. If false, jQuery's text method will be used to insert content into the dom.</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 586
+    },
+    {
+        "Id": 169,
+        "Name": "<p>What is \"ping\" command use for?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 511,
+                "QuestionId": 169,
+                "Name": "<p>Used to check Linux commands are working or not</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 512,
+                "QuestionId": 169,
+                "Name": "<p>Used to check file or folder size</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 513,
+                "QuestionId": 169,
+                "Name": "<p>Used to test the reachability of a host on network</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 514,
+                "QuestionId": 169,
+                "Name": "<p>Used to check memory left on server</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 513,
+            "QuestionId": 169,
+            "Name": "<p>Used to test the reachability of a host on network</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 513
+    },
+    {
+        "Id": 205,
+        "Name": "<p>Which jQuery method is used to perform an asynchronous HTTP request?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 650,
+                "QuestionId": 205,
+                "Name": "<p>jQuery.ajaxAsync()</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 651,
+                "QuestionId": 205,
+                "Name": "<p>jQuery.ajax()</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 652,
+                "QuestionId": 205,
+                "Name": "<p>jQuery.ajaxSetup()</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 653,
+                "QuestionId": 205,
+                "Name": "<p>jQuery.post()/jQuery.get()</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 651,
+            "QuestionId": 205,
+            "Name": "<p>jQuery.ajax()</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 651
+    },
+    {
+        "Id": 165,
+        "Name": "<p>What is the command for remove file using Linux command?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 495,
+                "QuestionId": 165,
+                "Name": "<p>remove <filename></p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 496,
+                "QuestionId": 165,
+                "Name": "<p>trash <filename></p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 497,
+                "QuestionId": 165,
+                "Name": "<p>delete <filename></p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 498,
+                "QuestionId": 165,
+                "Name": "<p>rm <filename></p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 498,
+            "QuestionId": 165,
+            "Name": "<p>rm <filename></p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 498
+    },
+    {
+        "Id": 180,
+        "Name": "<p>Which of the following statements is/are correct about Bootstrap 4?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 553,
+                "QuestionId": 180,
+                "Name": "<p>It provides a free front - end framework</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 554,
+                "QuestionId": 180,
+                "Name": "<p>It is a completely open - source product</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 555,
+                "QuestionId": 180,
+                "Name": "<p>It gives the ability to create responsive designs</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 556,
+                "QuestionId": 180,
+                "Name": "<p>All of the above</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 556,
+            "QuestionId": 180,
+            "Name": "<p>All of the above</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 556
+    },
+    {
+        "Id": 190,
+        "Name": "<p>Medium devices are defined as having a screen width from</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 589,
+                "QuestionId": 190,
+                "Name": "<p>900 pixels to 1000 pixels</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 590,
+                "QuestionId": 190,
+                "Name": "<p>768 pixels to 991 pixels</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 591,
+                "QuestionId": 190,
+                "Name": "<p>992 pixels to 1199 pixels</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 592,
+                "QuestionId": 190,
+                "Name": "<p>512 pixels to 2048 pixels</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 591,
+            "QuestionId": 190,
+            "Name": "<p>992 pixels to 1199 pixels</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 591
+    },
+    {
+        "Id": 191,
+        "Name": "<p>Which of the following git command that downloads your repository from GitHub to your computer?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 593,
+                "QuestionId": 191,
+                "Name": "<p>git fork</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 594,
+                "QuestionId": 191,
+                "Name": "<p>git commit</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 595,
+                "QuestionId": 191,
+                "Name": "<p>git clone</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 596,
+                "QuestionId": 191,
+                "Name": "<p>git push</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 595,
+            "QuestionId": 191,
+            "Name": "<p>git clone</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 595
+    },
+    {
+        "Id": 188,
+        "Name": "<p>Which of the following is correct about Bootstrap Mobile First Strategy?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 581,
+                "QuestionId": 188,
+                "Name": "<p>A user has to insert the viewport meta tag to the element so as to make sure that proper rendering and touch zooming is enabled on mobile devices.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 582,
+                "QuestionId": 188,
+                "Name": "<p>The width property can be used to control the width of the device. If it is kept in accordance to the width of the device, it will ensure that it is rendered across the different devices i.e., mobiles , desktops , tablets and so on properly.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 583,
+                "QuestionId": 188,
+                "Name": "<p>In this, the initial-scale = 1.0 helps a user understand that when loaded, the web page will be rendered at a 1:1 scale, and no zooming will be applied out of the box.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 584,
+                "QuestionId": 188,
+                "Name": "<p>All of the above.</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 584,
+            "QuestionId": 188,
+            "Name": "<p>All of the above.</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 584
+    },
+    {
+        "Id": 166,
+        "Name": "<p>What is use of \"mv\" command?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 499,
+                "QuestionId": 166,
+                "Name": "<p>Only to move one or more files from one place to another</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 500,
+                "QuestionId": 166,
+                "Name": "<p>Only to move folders from one place to another</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 501,
+                "QuestionId": 166,
+                "Name": "<p>Move one or more files or directories from one place to another</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 502,
+                "QuestionId": 166,
+                "Name": "<p>None of above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 501,
+            "QuestionId": 166,
+            "Name": "<p>Move one or more files or directories from one place to another</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 501
+    },
+    {
+        "Id": 208,
+        "Name": "<p>Client-side JavaScript code is embedded within HTML documents in</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 662,
+                "QuestionId": 208,
+                "Name": "<p>URL that uses the special javascript:encoding</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 663,
+                "QuestionId": 208,
+                "Name": "<p>A URL that uses the special javascript:stack</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 664,
+                "QuestionId": 208,
+                "Name": "<p>A URL that uses the special javascript:protocol</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 665,
+                "QuestionId": 208,
+                "Name": "<p>A URL that uses the special javascript:code</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 664,
+            "QuestionId": 208,
+            "Name": "<p>A URL that uses the special javascript:protocol</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 664
+    },
+    {
+        "Id": 201,
+        "Name": "<p>Which one of the following also known as Conditional Expression:</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 634,
+                "QuestionId": 201,
+                "Name": "<p>Alternative to if-else</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 635,
+                "QuestionId": 201,
+                "Name": "<p>Switch statement</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 636,
+                "QuestionId": 201,
+                "Name": "<p>If-then-else statement</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 637,
+                "QuestionId": 201,
+                "Name": "<p>immediate if</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 634,
+            "QuestionId": 201,
+            "Name": "<p>Alternative to if-else</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 634
+    },
+    {
+        "Id": 202,
+        "Name": "<p>In JavaScript, what is a block of statement?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 638,
+                "QuestionId": 202,
+                "Name": "<p>Conditional block</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 639,
+                "QuestionId": 202,
+                "Name": "<p>block that combines a number of statements into a single compound statement</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 640,
+                "QuestionId": 202,
+                "Name": "<p>both conditional block and a single statement</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 641,
+                "QuestionId": 202,
+                "Name": "<p>block that contains a single statement</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 639,
+            "QuestionId": 202,
+            "Name": "<p>block that combines a number of statements into a single compound statement</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 639
+    },
+    {
+        "Id": 209,
+        "Name": "<p>Which of the following navigator object properties is the same in both Netscape and IE?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 666,
+                "QuestionId": 209,
+                "Name": "<p>navigator.appCodeName</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 667,
+                "QuestionId": 209,
+                "Name": "<p>navigator.appName</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 668,
+                "QuestionId": 209,
+                "Name": "<p>navigator.appVersion</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 669,
+                "QuestionId": 209,
+                "Name": "<p>None of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 666,
+            "QuestionId": 209,
+            "Name": "<p>navigator.appCodeName</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 666
+    },
+    {
+        "Id": 203,
+        "Name": "<p>Which one of the following is the correct way for calling the JavaScript code?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 642,
+                "QuestionId": 203,
+                "Name": "<p>Preprocessor</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 643,
+                "QuestionId": 203,
+                "Name": "<p>Triggering Event</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 644,
+                "QuestionId": 203,
+                "Name": "<p>RMI</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 645,
+                "QuestionId": 203,
+                "Name": "<p>Function/Method</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 645,
+            "QuestionId": 203,
+            "Name": "<p>Function/Method</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 645
+    },
+    {
+        "Id": 196,
+        "Name": "<p>Which of the following advantage of using GIT?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 613,
+                "QuestionId": 196,
+                "Name": "<p>Collaboration friendly</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 614,
+                "QuestionId": 196,
+                "Name": "<p>Data redundancy and replication</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 615,
+                "QuestionId": 196,
+                "Name": "<p>Data redundancy and replication</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 617,
+                "QuestionId": 196,
+                "Name": "<p>All of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 613,
+            "QuestionId": 196,
+            "Name": "<p>Collaboration friendly</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 613
+    },
+    {
+        "Id": 162,
+        "Name": "<p>Which command use to switch to other directory using Linux command?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 483,
+                "QuestionId": 162,
+                "Name": "<p>cd</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 484,
+                "QuestionId": 162,
+                "Name": "<p>change-dir</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 485,
+                "QuestionId": 162,
+                "Name": "<p>folder</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 486,
+                "QuestionId": 162,
+                "Name": "<p>cf</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 483,
+            "QuestionId": 162,
+            "Name": "<p>cd</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 483
+    },
+    {
+        "Id": 186,
+        "Name": "<p>Which of the following classes amongst these options is/are contextual?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 573,
+                "QuestionId": 186,
+                "Name": "<p>.warning</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 574,
+                "QuestionId": 186,
+                "Name": "<p>.info</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 575,
+                "QuestionId": 186,
+                "Name": "<p>.danger</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 576,
+                "QuestionId": 186,
+                "Name": "<p>All of the given options are correct</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 576,
+            "QuestionId": 186,
+            "Name": "<p>All of the given options are correct</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 576
+    },
+    {
+        "Id": 167,
+        "Name": "<p>In Lunux command \"cd\" - what cd stands for?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 503,
+                "QuestionId": 167,
+                "Name": "<p>current directory</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 504,
+                "QuestionId": 167,
+                "Name": "<p>change directory</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 505,
+                "QuestionId": 167,
+                "Name": "<p>current difference</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 506,
+                "QuestionId": 167,
+                "Name": "<p>None of above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 504,
+            "QuestionId": 167,
+            "Name": "<p>change directory</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 504
+    },
+    {
+        "Id": 204,
+        "Name": "<p>What is the correct jQuery code to set the background color of all p elements to red?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 646,
+                "QuestionId": 204,
+                "Name": "<p>$(\"p\").layout(\"background-color\",\"red\");</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 647,
+                "QuestionId": 204,
+                "Name": "<p>$(\"p\").manipulate(\"background-color\",\"red\");</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 648,
+                "QuestionId": 204,
+                "Name": "<p>$(\"p\").css(\"background-color\",\"red\");</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 649,
+                "QuestionId": 204,
+                "Name": "<p>$(\"p\").style(\"background-color\",\"red\");</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 648,
+            "QuestionId": 204,
+            "Name": "<p>$(\"p\").css(\"background-color\",\"red\");</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 648
+    },
+    {
+        "Id": 197,
+        "Name": "<p>What is an alternative to merging in git?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 618,
+                "QuestionId": 197,
+                "Name": "<p>Basing</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 619,
+                "QuestionId": 197,
+                "Name": "<p>Rebasing</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 620,
+                "QuestionId": 197,
+                "Name": "<p>Both 1 and 2</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 621,
+                "QuestionId": 197,
+                "Name": "<p>None of these</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 619,
+            "QuestionId": 197,
+            "Name": "<p>Rebasing</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 619
+    },
+    {
+        "Id": 173,
+        "Name": "<p>What is the correct HTML for inserting an image?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 527,
+                "QuestionId": 173,
+                "Name": "<p>img tag with href attributes mentioned with image path</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 528,
+                "QuestionId": 173,
+                "Name": "<p>img tag with image path mentioned inside tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 529,
+                "QuestionId": 173,
+                "Name": "<p>img tag with url attribute mentioned with image path</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 530,
+                "QuestionId": 173,
+                "Name": "<p>img tag with src attribute mentioned with image path</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 530,
+            "QuestionId": 173,
+            "Name": "<p>img tag with src attribute mentioned with image path</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 530
+    },
+    {
+        "Id": 160,
+        "Name": "<p>What is the correct command for listing files and directory in Linux?</p>",
+        "Note": "",
+        "QuestionTypeId": 38,
+        "Options": [
+            {
+                "Id": 475,
+                "QuestionId": 160,
+                "Name": "<p>rm</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 476,
+                "QuestionId": 160,
+                "Name": "<p>ls</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 477,
+                "QuestionId": 160,
+                "Name": "<p>directory</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 478,
+                "QuestionId": 160,
+                "Name": "<p>list</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 476,
+            "QuestionId": 160,
+            "Name": "<p>ls</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 476
+    },
+    {
+        "Id": 207,
+        "Name": "<p>Which of the following are not advanced services?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 658,
+                "QuestionId": 207,
+                "Name": "<p>Data storage</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 659,
+                "QuestionId": 207,
+                "Name": "<p>Networking</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 660,
+                "QuestionId": 207,
+                "Name": "<p>XMLHttpRequest object</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 661,
+                "QuestionId": 207,
+                "Name": "<p>None of the mentioned</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 661,
+            "QuestionId": 207,
+            "Name": "<p>None of the mentioned</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 661
+    },
+    {
+        "Id": 193,
+        "Name": "<p>Identify the correct commit syntax for all changes with a message?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 601,
+                "QuestionId": 193,
+                "Name": "<p>git add -a \"I'm coding\"</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 602,
+                "QuestionId": 193,
+                "Name": "<p>git commit -am \"I'm coding\"</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 603,
+                "QuestionId": 193,
+                "Name": "<p>git message -am \"I'm coding\"</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 604,
+                "QuestionId": 193,
+                "Name": "<p>None of these</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 602,
+            "QuestionId": 193,
+            "Name": "<p>git commit -am \"I'm coding\"</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 602
+    },
+    {
+        "Id": 210,
+        "Name": "<p>Which of the following is not considered a JavaScript operator?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 670,
+                "QuestionId": 210,
+                "Name": "<p>new</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 671,
+                "QuestionId": 210,
+                "Name": "<p>this</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 672,
+                "QuestionId": 210,
+                "Name": "<p>delete</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 673,
+                "QuestionId": 210,
+                "Name": "<p>typeof</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 671,
+            "QuestionId": 210,
+            "Name": "<p>this</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 671
+    },
+    {
+        "Id": 206,
+        "Name": "<p>What are the :odd and :even filters?</p>",
+        "Note": "",
+        "QuestionTypeId": 42,
+        "Options": [
+            {
+                "Id": 654,
+                "QuestionId": 206,
+                "Name": "<p>They allow you to determine if a number is odd or even.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 655,
+                "QuestionId": 206,
+                "Name": "<p>They allow you to determine if a specific element is in an odd or even position.</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 656,
+                "QuestionId": 206,
+                "Name": "<p>None of the above.</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 657,
+                "QuestionId": 206,
+                "Name": "<p>Both A and B</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 655,
+            "QuestionId": 206,
+            "Name": "<p>They allow you to determine if a specific element is in an odd or even position.</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 655
+    },
+    {
+        "Id": 187,
+        "Name": "<p>Which of the following is the correct full form of Sass in Bootstrap 4?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 577,
+                "QuestionId": 187,
+                "Name": "<p>Syntactically awesome Spreadsheets</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 578,
+                "QuestionId": 187,
+                "Name": "<p>Syntactically awesome Stylesheets</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 579,
+                "QuestionId": 187,
+                "Name": "<p>Scripting awesome Stylesheets</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 580,
+                "QuestionId": 187,
+                "Name": "<p>None of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 578,
+            "QuestionId": 187,
+            "Name": "<p>Syntactically awesome Stylesheets</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 578
+    },
+    {
+        "Id": 179,
+        "Name": "<p>What is the correct HTML for making a drop-down list?</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 549,
+                "QuestionId": 179,
+                "Name": "<p>input tag with attribute type - dropdown</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 550,
+                "QuestionId": 179,
+                "Name": "<p>select tag</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 551,
+                "QuestionId": 179,
+                "Name": "<p>input tag with attribute type - list</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 552,
+                "QuestionId": 179,
+                "Name": "<p>list tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 550,
+            "QuestionId": 179,
+            "Name": "<p>select tag</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 550
+    },
+    {
+        "Id": 170,
+        "Name": "<p>Choose the correct HTML element for the largest heading</p>",
+        "Note": "",
+        "QuestionTypeId": 39,
+        "Options": [
+            {
+                "Id": 515,
+                "QuestionId": 170,
+                "Name": "<p>h6 tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 516,
+                "QuestionId": 170,
+                "Name": "<p>head tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 517,
+                "QuestionId": 170,
+                "Name": "<p>heading tag</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 518,
+                "QuestionId": 170,
+                "Name": "<p>h1 tag</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 518,
+            "QuestionId": 170,
+            "Name": "<p>h1 tag</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 518
+    },
+    {
+        "Id": 199,
+        "Name": "<p>Which of the following Git repository hosting functions?</p>",
+        "Note": "",
+        "QuestionTypeId": 41,
+        "Options": [
+            {
+                "Id": 626,
+                "QuestionId": 199,
+                "Name": "<p>Gitlab</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 627,
+                "QuestionId": 199,
+                "Name": "<p>Github</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 628,
+                "QuestionId": 199,
+                "Name": "<p>Bitbucket</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 629,
+                "QuestionId": 199,
+                "Name": "<p>All of the above</p>",
+                "IsAnswer": false,
+                "selected": true
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 629,
+            "QuestionId": 199,
+            "Name": "<p>All of the above</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 629
+    },
+    {
+        "Id": 185,
+        "Name": "<p>Which of the following is the main difference between an ID and a class?</p>",
+        "Note": "",
+        "QuestionTypeId": 40,
+        "Options": [
+            {
+                "Id": 569,
+                "QuestionId": 185,
+                "Name": "<p>Classes are for use with spans and IDs are for use with DIVs</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 570,
+                "QuestionId": 185,
+                "Name": "<p>IDs are supposed to be only used once per page but Classes can be used multiple times per page, and one element can have more than one Class but should have only one ID</p>",
+                "IsAnswer": false,
+                "selected": true
+            },
+            {
+                "Id": 571,
+                "QuestionId": 185,
+                "Name": "<p>IDs are better than Classes</p>",
+                "IsAnswer": false,
+                "selected": false
+            },
+            {
+                "Id": 572,
+                "QuestionId": 185,
+                "Name": "<p>None of the above</p>",
+                "IsAnswer": false,
+                "selected": false
+            }
+        ],
+        "QuestionType": "objective",
+        "selected": {
+            "Id": 570,
+            "QuestionId": 185,
+            "Name": "<p>IDs are supposed to be only used once per page but Classes can be used multiple times per page, and one element can have more than one Class but should have only one ID</p>",
+            "IsAnswer": false,
+            "selected": true
+        },
+        "Answered": 570
+    }
+]

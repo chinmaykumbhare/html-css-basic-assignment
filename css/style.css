@@ -1,0 +1,250 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 26px;
+    text-decoration: none;
+  }
+
+  li p {
+    display: block;
+    color: white;
+    text-align: center;
+    /* padding: 24px 26px; */
+    padding-left: 23px;
+    padding-top: 9px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+
+  h3 {
+      color: white;
+      padding-left: 20%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  li p {
+    color: white;
+    font-family: cursive;
+    font-size: 14px;
+}
+
+#banner {
+    
+    height: 300px;
+    background-image: url(../images/header.jpg);
+    background-position: center;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+#bg-text {
+
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 34%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+#works {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#join {
+    background-color: #3dce20;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+}
+
+#sponsors {
+    padding-top: 10px;
+    padding-left: 20px;
+    display: flex;
+    background-color: rgb(7, 37, 64);
+    justify-content: center;
+}
+
+#sponsors h5 {
+    color: rgb(106,148,174);
+    font-size: 16px;
+}
+
+.articles {
+    height: 400px;
+    width: 100%;
+}
+
+#article_box {
+    margin-top: 100px;
+    margin-left: 30px;
+    height: 250px;
+    width: 30%;
+    border: 1px solid gray;
+    float: left;
+    padding: 10px auto;
+}
+
+#article_box h5 {
+    margin-left: 5%;
+    font-size: 16px;
+    color: blue;
+    margin-bottom: -25px;
+}
+
+#article_box h6 {
+    color: gray;
+    font-size: 14px;
+    margin-left: 5%;
+}
+
+#img {
+    background-image: url(../images/pexels-andrea-piacquadio-874158.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 90%;
+    height: 150px;    
+    margin-left: 10px;
+    margin: 20px;
+}
+
+#img3 {
+    background-image: url(../images/pexels-ceejay-talam-9226518.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 90%;
+    height: 150px;    
+    margin-left: 10px;
+    margin: 20px;
+}
+
+#img2 {
+    background-image: url(../images/pexels-jeremy-bishop-2923595.jpg);
+    background-position: center;
+    background-size: 100%;
+    width: 90%;
+    height: 150px;    
+    margin-left: 10px;
+    margin: 20px;
+}
+
+#expressions {
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    height: 160px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+}
+
+#expressions h4 {
+    color: darkgray;
+    font-size: 18px;
+}
+
+#expressions p {
+    font-family:'Lucida Sans';
+}
+
+.img_exp {
+    width: 80px;
+    height: 80px;
+    /* padding-top: 30px; */
+    border-radius: 50%;
+    
+}
+
+.clr {
+    clear: both;
+}
+
+.footer {
+    
+    bottom:0;
+    left:0;
+    width:100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+ .footer ul {
+    
+    list-style:none;
+    
+  }
+
+.footer ul li {
+    float:left; 
+    width:150px; 
+    font-weight:bold;
+    margin-top: 10px;
+    padding-left: 15%;
+
+}
+.footer ul li ul {
+    padding:0;
+}
+.footer ul li ul li {
+    float:none; 
+    padding:5px 0; 
+    font-weight:normal;
+}
+
+  a.menu {
+      color: white;
+  }
+  
+  a.menu:hover {
+    background-color:cornflowerblue;
+    font-size:30px;
+    color: white;
+  }
